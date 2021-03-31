@@ -115,13 +115,7 @@ nav a:nth-child(2):hover~.animation{
 	width: 110px;
 	left: 100px;
 }
-nav a:nth-child(3){
-	width: 100px;
-}
-nav a:nth-child(3):hover~.animation{
-	width: 100px;
-	left: 210px;
-}
+
 @keyframes bganimation {
   0%{
     background-position: 0% 50%;
