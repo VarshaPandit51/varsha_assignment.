@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-image: linear-gradient(120deg,#2980b9,#ff5f,#ff54ff,#fff);
+  background-size: 400% 400%;
+  }
+  h1{
+    position: relative;
+    font-size: 1.5em;
+    line-height: 1em;
+    color:green;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+  }
+  p{
+    font-size: medium;  
+    margin: 0;
+    padding: 4opx;
+    box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),
+  0 0  0 2px rgb(255,255,255),
+  0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
